@@ -1,7 +1,7 @@
 pack.burgs.forEach( b => {
 
 if (!b.i) return;
-// Replace placeholder with desired desired characterisitic.
+// Replace placeholder with desired characteristic.
 // Options are capital, port, citadel, walls, plaza(trade center), temple(religious center), shanty town
 if (b.placeholder) { =
 
