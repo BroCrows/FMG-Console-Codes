@@ -25,6 +25,3 @@ function generate_custom_biome_list() {
     }
   }
 }
-
-// USE THIS TO GENERATE BIOMES
-generate_custom_biome_list()
