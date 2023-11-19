@@ -46,7 +46,7 @@ custom_biome_list = [
     ['Hilly Subpolar Deserts', '#f6ecd3', 7, 50, 69, 2, 3, 0, 100],
     ['Hilly Continental Deserts', '#f7eac5', 10, 50, 69, 4, 6, 0, 100],
     ['Hilly Oceanic Deserts', '#f8e7b6', 13, 50, 69, 7, 12, 0, 100],
-    [' Hilly Temperate Deserts', '#f8e6a9', 17, 50, 69, 13, 17, 0, 100],
+    ['Hilly Temperate Deserts', '#f8e6a9', 17, 50, 69, 13, 17, 0, 100],
     ['Hilly Subtropical Deserts', '#f7e39b', 20, 50, 69, 18, 23, 0, 100],
     ['Hilly Tropical Deserts', '#f5e28d', 17, 50, 69, 24, 30, 0, 100],
     ['Hilly Ultratropical Deserts', '#f4e07f', 13, 50, 69, 31, 50, 0, 100],
