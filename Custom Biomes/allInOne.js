@@ -290,7 +290,7 @@ custom_biome_list = [
   ['Rainforests', '#346a1e', 70, 20, 100, -128, 50, 2100, 4000],
   ['Jungles', '#005411', 85, 20, 100, -128, 50, 4100, 100000]
 ];
-generate_custom_biome_list();`,
+generate_custom_biome_list()`,
         'Temperature': `
 custom_biome_list = [
   ['Polar', '#dedacd', 0, 20, 100, 0, 1, 0, 100000],
@@ -302,7 +302,7 @@ custom_biome_list = [
   ['Tropical', '#366626', 85, 20, 100, 24, 30, 0, 100000],
   ['Ultratropical', '#005411', 100, 20, 100, 31, 50, 0, 100000]
 ];
-generate_custom_biome_list();;`
+generate_custom_biome_list()`
     };
 
     // Function to create a button
