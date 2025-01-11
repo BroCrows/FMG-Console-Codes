@@ -293,7 +293,7 @@ custom_biome_list = [
 generate_custom_biome_list()`,
         'Temperature': `
 custom_biome_list = [
-  ['Polar', '#dedacd', 0, 20, 100, 0, 1, 0, 100000],
+  ['Polar', '#dedacd', 0, 20, 100, -128, 1, 0, 100000],
   ['Subpolar', '#c8c4ac', 14, 20, 100, 2, 3, 0, 100000],
   ['Continental', '#afb08d', 28, 20, 100, 4, 6, 0, 100000],
   ['Oceanic', '#949c70', 42, 20, 100, 7, 12, 0, 100000],
